@@ -1,2 +1,3 @@
 # python_artifacts
-This repository  contains the scripts and dependencies written in python
+This project contains a collection of Python scripts designed to perform processes defined. 
+The repository includes various functionalities such as designing and implementation, and can be used for potential use cases.
